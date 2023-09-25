@@ -1,2 +1,2 @@
 print("Goodbye Friend!")
-print("Adios Amigo")
+print("Adios Mi Amigo")
